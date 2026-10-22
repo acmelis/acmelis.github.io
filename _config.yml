@@ -21,10 +21,11 @@ author: Anita Melis
 
 navbar-links:
   About Me: "aboutme"
+  Test
   Resources:
     - ariadne an der spree: https://ariadne-an-der-spree.de/#projekte
     - SMart Genossenschaft: https://smartde.coop/en/home/
-  Author's LinkedIn: "https://www.linkedin.com/in/anita-melis-4545b71b6/"
+  Author's LinkedIn:
 
 ################
 # --- Logo --- #
@@ -54,7 +55,7 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: acmelis
 #  linkedin: "https://www.linkedin.com/in/anita-melis-4545b71b6/"
-#  telephone: +173 695 69 55
+#  telephone:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
