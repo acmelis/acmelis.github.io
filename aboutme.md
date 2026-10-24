@@ -16,10 +16,10 @@ These are just some of the experiences which have shaped me in my early years.
 
 Today I have professional experience in the following fields:
 
-- ### Project- and Event-Management:
+- #### Project- and Event-Management:
 Since many years I organise events and campaigns on Democracy, Inclusion and Antidiscrimination for public institutions in Berlin, Brandenburg and other regions in Germany. 
 
-- ### Hospitality and Gastronomy:
+- #### Hospitality and Gastronomy:
 I am at home in Gastronomy, Hospitality Management, Service, and Inclusive Event Management. Starting in Cafés and Catering Businesses to Restaurants and Bar Tending, to Cultural Venues with high class Service, I love working in Gastronomy. It's an art, and my highest professional expression of care.
 
 - #### Translation:
