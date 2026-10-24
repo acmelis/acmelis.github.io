@@ -6,7 +6,9 @@ subtitle: A growth process takes time, determination and flexibility.
 
 My name is Anita Melis, I am based in Berlin but move around during the year. When I'm not in Berlin you might find me in Sardinia.
 
-First things first: **FREE PALESTINE.** My energies thrive towards contributing to a more equal system. A system socially, ecologically and economically sustainable to all. That implies an end to Capitalism as we know it.
+First things first: **FREE PALESTINE.**
+
+My energies thrive towards contributing to a more equal system. A system socially, ecologically and economically sustainable to all. That implies an end to Imperialism and Zionism.
 
 At 14 I wanted to become a photographer. I decided to ask for a summer employment at the café / organic food store next door. They took me and two months and many coffees and sandwiches mastered later I bought myself a digital Canon camera. Not long ago I gifted it to a friend, it still works.
 
